@@ -1,2 +1,2 @@
-# beampattern for near-field-commuinication 
+# beampattern for near-field-communication 
  bug-free matlab code
