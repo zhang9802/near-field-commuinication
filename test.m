@@ -1,6 +1,5 @@
 %reference : Near-Field Integrated Sensing and Communications
 %data:2023/8/21
-%author:jifa zhang
 %conclusion: beamforming focusing 
 
 
